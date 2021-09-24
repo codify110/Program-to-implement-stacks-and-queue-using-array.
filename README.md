@@ -1,4 +1,4 @@
-# Program-to-implement-stacks-and-queue-using-array.
+# Program-to-implement-stacks-using-array.
 ## Approach:
 Implement the following operations (Functions) with 
 menu driven Approach. <br />
